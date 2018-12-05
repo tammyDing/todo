@@ -1,21 +1,17 @@
-# todo
+# todo项目
 
-> todo
+> Vue+Webpack
 
-## Build Setup
+## Vue+Webpack打造todo应用
 
 ``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
+# VUE2的基本使用以及如何搭建一个vue的工程
+1、通过webpack搭建vue工程workflow
+2、哪些是学习vue的重点
+3、.vue文件开发模式
+4、vue使用jsx进行开发的方式
+5、vue组件间通信的基本方式
+6、webpack打包优化的基本点
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
